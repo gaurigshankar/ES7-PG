@@ -1,0 +1,24 @@
+{
+  "name": "ES7-PG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d build",
+    "start": "node build/Test.js"
+  },
+  "keywords": [],
+  "author": "Gauri Shankar P",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.2.1",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-plugin-syntax-async-functions": "^6.1.4",
+    "babel-plugin-transform-regenerator": "^6.1.4",
+    "babel-polyfill": "^6.5.0",
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
