@@ -10,5 +10,8 @@ There are a few defined run scripts, here's a list of them with a description of
 * `build`: Runs the `babel` CLI to compile the app. Files are emitted to `build/`.
 
 ### Reference
-http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html
-https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
+* http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html
+* https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
+
+### Async - ES7 Evolution
+* https://www.youtube.com/watch?v=lil4YCCXRYc
